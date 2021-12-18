@@ -6,7 +6,7 @@
 ### <div align="center">I'm ArisuXD, a Student,Traveler🌴,Anime Lover ⛩</div>  
   
 
-*🍂 I’m currently working on [MPM STUDIO](https://t.me/whatsappgang)*  
+- *🍂 I’m currently working on [MPM STUDIO](https://t.me/whatsappgang)*  
   
 
 - 🌱 I’m currently learning JavaScript 
@@ -100,4 +100,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">- “Coincidence can be freaky.”💀  </div>
