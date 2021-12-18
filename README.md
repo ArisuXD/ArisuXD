@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm ArisuXD, a Student And Traveler 🌿</div>  
+### <div align="center">I'm ArisuXD, a Student,Traveler🌴,Anime Lover ⛩</div>  
   
 
 *🍂 I’m currently working on [MPM STUDIO](https://t.me/whatsappgang)*  
   
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript 
   
 
-- 📫 How to reach me [Telegram](https://t.me/ArisuXD)  
+- 📫 You Can Contact Me Via [Telegram](https://t.me/ArisuXD)  
   
 
 - “Coincidence can be freaky.”💀  
@@ -80,7 +80,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+“Music is the wine that fills the cup of silence.”
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
