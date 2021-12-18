@@ -15,7 +15,7 @@
 - 📫 You Can Contact Me Via [Telegram](https://t.me/ArisuXD)  
   
 
-- “Coincidence can be freaky.”💀  
+- “ummm Hello 👀" 
   
 
 <br/>  
