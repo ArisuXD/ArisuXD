@@ -70,7 +70,7 @@
 <a href="https://open.spotify.com/user/jillyamartino?si=nyGdWGArRhqmEjqP6X8CLQ">
 <img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white;" /> 
 <a href="https://www.deezer.com/en/profile/4535239262">
-<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white;" /> 
+<img src=https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white;" /> 
 
 <br/>  
 
