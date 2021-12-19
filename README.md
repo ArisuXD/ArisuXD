@@ -72,6 +72,8 @@
 <a href="https://www.deezer.com/en/profile/4535239262">
 <img src=https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white;" /> 
 
+<a href="https://myanimelist.net/profile/ArisuXD">
+<img src=https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white;" /> 
 <br/>  
 
 
