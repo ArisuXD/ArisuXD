@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm ArisuXD, a Student,Traveler🌴,Anime Lover ⛩</div>  
+### <div align="center">I'm ArisuXD, a Student,Traveler🌴 & Anime Lover ⛩</div>  
   
 
 - *🍂 I’m currently working on [MPM STUDIO](https://t.me/whatsappgang)*  
