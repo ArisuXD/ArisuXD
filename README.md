@@ -90,7 +90,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jillyamartino&cover_image=true&theme=compact" /></div>  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31thqct4elgy6dj4vlqgmkb2bdym&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31thqct4elgy6dj4vlqgmkb2bdym&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]  
 
 <br/>  
 
